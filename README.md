@@ -1,4 +1,4 @@
-# Fundamental og Python programming 
+# Fundamental of Python programming 
 
 
 1. Introduction to python
