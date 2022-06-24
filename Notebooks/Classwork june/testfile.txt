@@ -1,0 +1,4 @@
+More Lines 
+This is the old text file 
+More Lines 
+No more overwriting, only appending 
